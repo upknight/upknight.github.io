@@ -1,5 +1,10 @@
 ## Welcome to My GitHub Page
 
+I want to use GitHub to learn:
+(1) Machine Learning / Deeping Learning / Artificial Intelligence
+(2) Scientific Datat Processing / Mining
+(3) Python / C++
+
 You can use the [editor on GitHub](https://github.com/upknight/upknight.github.io/edit/master/README.md) to maintain and preview the content for my website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
